@@ -4,11 +4,9 @@ We made 3 prototypes in this project.
 
 ### Prototype 1
 
+This prototype models JWST's primary mirror, secondary mirror and sun shields. 
+
 
 
 -
 -
-
-<p align="center">
-  <img src="../images/team-logo.jpg" width="500" />
-</p>

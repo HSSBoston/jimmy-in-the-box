@@ -1,7 +1,7 @@
 # Jimmy-in-the-Box: Where Paper Crafting Meets Electronics and Coding
 
 <p align="center">
-  <img src="images/team-logo.jpg" width="500" />
+  <img src="images/project-logo.png" width="500" />
 </p>
 
 We are a team of high schoolers and middle schoolers who participated in [2021 NASA SpaceApps Challenge](https://2021.spaceappschallenge.org).
