@@ -5,9 +5,9 @@ import kintone, time
 serialPort = "/dev/serial0"
 appName = "jwst-demo-panda"
 
-sdomain = "hssboston"
-appId = "6"
-token = "emmH0XsElPiRsBDNyqJnYjb5sXIMcmhEIYM3GH2D"
+sdomain = "SUB-DOMAIN-NAME"
+appId = "APP-ID-NUMBER"
+token = "APP-TOKEN"
 
 gpsSerialPort = gps.init(serialPort)
 geolocator = Nominatim(user_agent=appName)

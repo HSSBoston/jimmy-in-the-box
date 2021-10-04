@@ -2,9 +2,9 @@ import os, sys, kintone, time
 from kintone import getCurrentTimeStamp
 # Write your program below
 
-sdomain = "hssboston"
-appId = "2"
-token = "5frW1nLAgCk2RMcwuN40pZIgmNOr7RmzFOMaHaZJ"
+sdomain = "SUB-DOMAIN-NAME"
+appId = "APP-ID-NUMBER"
+token = "APP-TOKEN"
 
 interval = 10
 

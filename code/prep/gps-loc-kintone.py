@@ -2,9 +2,10 @@ import gpsserial as gps
 import kintone, time
 
 serialPort = "/dev/serial0"
-sdomain = "hssboston"
-appId = "6"
-token = "emmH0XsElPiRsBDNyqJnYjb5sXIMcmhEIYM3GH2D"
+
+sdomain = "SUB-DOMAIN-NAME"
+appId = "APP-ID-NUMBER"
+token = "APP-TOKEN"
 
 gpsSerialPort = gps.init(serialPort)
     

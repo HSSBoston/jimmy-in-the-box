@@ -4,9 +4,9 @@ from kintone import getCurrentTimeStamp
 GPIO.setmode(GPIO.BCM)
 # Start writing your program below
 
-sdomain = "jxsboston"
-appId = "12"
-token = "xUACouThlmrY3rrThunA9qSy1TuZoM76ctSblx0D"
+sdomain = "SUB-DOMAIN-NAME"
+appId = "APP-ID-NUMBER"
+token = "APP-TOKEN"
 
 button = 19
 buttonSwitch = 26
