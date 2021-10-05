@@ -8,14 +8,7 @@ This prototype models JWST's primary mirror with an origami tessellation. See th
 
 This prototype also models JWST's [Secondary Mirror Support Structure (SMSS)](https://news.northropgrumman.com/news/features/nasas-james-webb-space-telescope-secondary-mirror-deploys-for-the-first-time-using-the-spacecraft-flight-electronics), which uses 3 arms to deploy the secondary mirror. The arms are modeled with bamboo skewers, which are attached to the primary mirror with the hinges made with paper tape and plastic straws. Just like JWST's arms, our arms fold toward the primary mirror (so that they can reduce their volume and can be placed in a rocket) and unfold to form a tripod (so that the secondary mirror can stay at a distance from the primary mirror).
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="../images/poster_image.png">
-    <source src="../images/secondary-mirror.mp4" type="video/mp4">
-  </video>
-</figure>
-<video width="320" height="240" controls>
-  <source src="../images/secondary-mirror.mov" type="video/mp4">
-</video>
+
 
 JWST's sun shield is modeled with sheet protectors. Five layers of sheet protectors are connected with foundation bars with strings.
 
@@ -23,7 +16,7 @@ JWST's sun shield is modeled with sheet protectors. Five layers of sheet protect
 
 ### Prototype 2
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__TD8kDpQQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Prototype 3
