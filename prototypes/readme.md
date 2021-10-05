@@ -10,9 +10,12 @@ This prototype also models JWST's [Secondary Mirror Support Structure (SMSS)](ht
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="../images/poster_image.png">
-    <source src="images/secondary-mirror.mp4" type="video/mp4">
+    <source src="../images/secondary-mirror.mp4" type="video/mp4">
   </video>
 </figure>
+<video width="320" height="240" controls>
+  <source src="../images/secondary-mirror.mov" type="video/mp4">
+</video>
 
 JWST's sun shield is modeled with sheet protectors. Five layers of sheet protectors are connected with foundation bars with strings.
 
