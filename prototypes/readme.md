@@ -16,7 +16,10 @@ JWST's sun shield is modeled with sheet protectors. Five layers of sheet protect
 
 ### Prototype 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/__TD8kDpQQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![](https://img.youtube.com/vi/__TD8kDpQQY&t=5s/hqdefault.jpg)](https://www.youtube.com/watch?v=__TD8kDpQQY&t=5s)
+
+[![](https://img.youtube.com/vi/__TD8kDpQQY&t=5s/0.jpg)](https://www.youtube.com/watch?v=__TD8kDpQQY&t=5s)
 
 
 ### Prototype 3
