@@ -4,22 +4,34 @@ We made 3 prototypes in this project.
 
 ### Prototype 1
 
-This prototype models JWST's primary mirror with an origami tessellation. See this page for more details about it.
+<p align="center">
+  <img src="../images/prototype1-1.jpg" width="300" />
+  <img src="../images/prototype1-2.jpg" width="300" />
+  <b>
+  <img src="../images/prototype1-3.jpg" width="300" />
+  <img src="../images/prototype1-4.jpg" width="300" />  
+</p>
+
+This prototype models JWST's primary mirror with an origami tessellation. The tessellation is folded from a piece of paper. See this page for more details about the tessellation.
 
 This prototype also models JWST's [Secondary Mirror Support Structure (SMSS)](https://news.northropgrumman.com/news/features/nasas-james-webb-space-telescope-secondary-mirror-deploys-for-the-first-time-using-the-spacecraft-flight-electronics), which uses 3 arms to deploy the secondary mirror. The arms are modeled with bamboo skewers, which are attached to the primary mirror with the hinges made with paper tape and plastic straws. Just like JWST's arms, our arms fold toward the primary mirror (so that they can reduce their volume and can be placed in a rocket) and unfold to form a tripod (so that the secondary mirror can stay at a distance from the primary mirror).
 
-
-
-JWST's sun shield is modeled with sheet protectors. Five layers of sheet protectors are connected with foundation bars with strings.
+JWST's sun shield is modeled with sheet protectors. Five layers of them are connected with foundation bars with strings.
 
 
 
 ### Prototype 2
 
+<p align="center">
+  <img src="../images/prototype2.jpg" width="500" />
+</p>
 
-[![](https://img.youtube.com/vi/__TD8kDpQQY&t=5s/hqdefault.jpg)](https://www.youtube.com/watch?v=__TD8kDpQQY&t=5s)
+This prototype models JWST's primary mirror and sunshield with origami crafts. A long (silver) hexagon is folded from a piece of paper, and five of them are staked under the primary mirror. See this page to learn how to fold them.
 
-[![](https://img.youtube.com/vi/__TD8kDpQQY&t=5s/0.jpg)](https://www.youtube.com/watch?v=__TD8kDpQQY&t=5s)
+sunshield is stacked
+
+This prototype is equipped with a Raspberry Pi computer, camera and GPS receier.
+
 
 
 ### Prototype 3
