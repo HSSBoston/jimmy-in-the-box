@@ -5,7 +5,7 @@ We made 3 prototypes in this project.
 ## Prototype 1
 
 <p align="center">
-  <img src="../images/prototype1-1.jpg" width="300" />
+  <img src="../images/prototype1-1.jpg" height="360" />
   <img src="../images/prototype1-2.jpg" width="300" />
 </p>
 <p align="center">
