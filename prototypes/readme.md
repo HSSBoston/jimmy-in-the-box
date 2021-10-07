@@ -45,7 +45,7 @@ We wrote a [Python program](gps-loc-addr-elev-pic-kintone.py) for the Raspberry 
 <p align="center">
   <img src="../images/prototype3-1.jpg" width="250" />
   <img src="../images/prototype3-2.jpg" width="250" />
-  <img src="../images/prototype3-3.jpg" width="250" />
+  <img src="../images/prototype3-3.jpg" height="350" />
 </p>
 <p align="center">
   <img src="../images/prototype3-4.jpg" width="250" />
