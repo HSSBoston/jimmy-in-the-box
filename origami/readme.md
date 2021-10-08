@@ -31,7 +31,7 @@ So, we customized the folding strategy to better model the primary mirror. In ou
 
 See this video to see how to fold this tessellation.
 
-[<img src="../images/tessellation.jpg" width="400" />](https://youtu.be/rcuQiwpuUoE)
+[<img src="../images/tessellation.jpg" width="500" />](https://youtu.be/rcuQiwpuUoE)
 
 
 ## Long Hexagon (Sun Shield)
@@ -44,7 +44,7 @@ JWST's sunshield has 5 layers of aluminum-coated silicon film.
 
 We folded a long hexagon from a single piece of paper and stacked five of them to model the sunshield. See this video to see how to fold a long hexagon.
 
-[<img src="../images/hex-fold.jpg" width="400" />](https://youtu.be/871z3e-o738)
+[<img src="../images/hex-fold.jpg" width="500" />](https://youtu.be/871z3e-o738)
 
 ## References
 
