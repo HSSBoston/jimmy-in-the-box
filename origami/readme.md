@@ -7,30 +7,47 @@ We made 2 origami crafts.
 JWST's primary mirror has 19 hexagonal segments. One of them in the middle is to mount the camera (in black). The others in gold are mirror segments. We modeled this mirror in hexagonal segments as an origami tessellation. Tessellation is a tiling technique to repeat patterns on a plane by folding a single sheet of paper.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/JWST_Full_Mirror.jpg" height="375" />
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Optical_Telescope_Element">Wikipedia</a>
+  <img src="../images/primary-mirror.jpg" height="375" />
 </p>
 
 We started with [Eric Gjerde](https://www.ericgjerde.com/)’s [hexagonal tessellation](https://www.ericgjerde.com/portfolio/spread-hexagons/) ([book](https://www.amazon.com/Origami-Tessellations-Awe-Inspiring-Geometric-2008-12-03/dp/B01F81MLZW/), [video](https://www.youtube.com/watch?v=3BTu2Hih39A)). It is elegant, but not that similar to JWST's primary mirror because hexagons overlap to spread. (See below.)
 
 <p align="center">
-
-[<img alt="Spread Hex Tessellation" src="../images/spread-hex.jpg" height="250" />](https://www.youtube.com/watch?v=3BTu2Hih39A)
-
-<img src="../images/eric-hex-tessellation.jpg" width="250" />
-
+<img src="../images/spread-hex.jpg" height="250" />
+<br>
+This is <a href="https://www.youtube.com/watch?v=3BTu2Hih39A">Eric Gjerde's tessellation folded by Jo Nakakima</a>.
+</p>
+<p align="center">
+<img src="../images/eric-hex-tessellation.jpg" width="300" />
+<br>
+This is Eric Gjerde's tessellation that we folded.
 </p>
 
-So, we customized the folding strategy to better model the primary mirror. In our tesselation, hexagons fit together without overlaps nor gaps.
+So, we customized the folding strategy to better model the primary mirror. In our tesselation, hexagons fit together without overlaps nor gaps as JWST's hexagonal segments do. Our tessellation tiles 19 hexagons: 5 in the middle column, 4 in its left and right neighboring columns and 3 in each outer-most column.
 
+<p align="center">
+<img src="../images/hex-tessellation.jpg" height="400" />
+</p>
+
+See this video to see how to fold this tessellation.
 
 ## Long Hexagon (Sun Shield)
 
-JWST's sunshield has 5 layers of long hexagons.
+JWST's sunshield has 5 layers of aluminum-coated silicon film.
 
+<p align="center">
+<img src="../images/sunshield.jpg" height="250" />
+</p>
+
+We folded a long hexagon from a single piece of paper and stacked five of them to model the sunshield. See this video to see how to fold a long hexagon.
+
+[<img src="../images/hex-fold.jpg" width="400" />](https://youtu.be/871z3e-o738)
 
 ## References
+
+- NASA, [Webb's Mirrors](https://www.jwst.nasa.gov/content/observatory/ote/mirrors/index.html).
+
+- NASA, [Webb's Sunshield](https://www.jwst.nasa.gov/content/observatory/sunshield.html)
 
 - Eric Gjerde, [Origami Tessellations: Awe-Inspiring Geometric Designs](https://www.amazon.com/Origami-Tessellations-Awe-Inspiring-Geometric-2008-12-03/dp/B01F81MLZW/), A K Peters/CRC Press, 2008.
 
