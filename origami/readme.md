@@ -31,6 +31,9 @@ So, we customized the folding strategy to better model the primary mirror. In ou
 
 See this video to see how to fold this tessellation.
 
+[<img src="../images/tessellation.jpg" width="400" />](https://youtu.be/rcuQiwpuUoE)
+
+
 ## Long Hexagon (Sun Shield)
 
 JWST's sunshield has 5 layers of aluminum-coated silicon film.
