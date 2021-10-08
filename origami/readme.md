@@ -18,6 +18,8 @@ We started with [Eric Gjerde](https://www.ericgjerde.com/)’s [hexagonal tessel
 
 [<img alt="Spread Hex Tessellation" src="../images/spread-hex.jpg" height="250" />](https://www.youtube.com/watch?v=3BTu2Hih39A)
 
+<img src="../images/eric-hex-tessellation.jpg" width="250" />
+
 </p>
 
 So, we customized the folding strategy to better model the primary mirror. In our tesselation, hexagons fit together without overlaps nor gaps.
