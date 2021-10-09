@@ -4,14 +4,8 @@ We made 3 prototypes in this project.
 
 ## Prototype 1
 
-<p align="center">
-  <img src="../images/prototype1-1.jpg" height="360" />
-  <img src="../images/prototype1-2.jpg" width="300" />
-</p>
-<p align="center">
-  <img src="../images/prototype1-3.jpg" width="300" />
-  <img src="../images/prototype1-4.jpg" width="300" />  
-</p>
+[<img src="../images/prototype1-yt.jpg" width="500" />](https://youtu.be/nX_uif16j78)
+
 
 This prototype models JWST's primary mirror with a hexagonal origami tessellation. The tessellation is folded from a piece of paper. See [this page](../origami/) for more details about the tessellation.
 
@@ -21,7 +15,14 @@ This prototype also models JWST's [Secondary Mirror Support Structure (SMSS)](ht
 
 JWST's sun shield is modeled with sheet protectors. Five layers of them are connected with foundation bars with strings. They can fold and unfold horizontally.
 
-
+<p align="center">
+  <img src="../images/prototype1-1.jpg" height="360" />
+  <img src="../images/prototype1-2.jpg" width="300" />
+</p>
+<p align="center">
+  <img src="../images/prototype1-3.jpg" width="300" />
+  <img src="../images/prototype1-4.jpg" width="300" />  
+</p>
 
 ## Prototype 2
 
@@ -31,7 +32,7 @@ JWST's sun shield is modeled with sheet protectors. Five layers of them are conn
 
 This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a piece of paper, stacked five of them and placed them under the primary mirror. See [this page]((../origami/)) to learn how to fold them.
 
-This prototype is equipped with a Raspberry Pi computer, camera and GPS receiver. The camera is attached to the middle of the primary mirror. The gold cable in the picture below connects the camera and Raspberry Pi.
+This prototype is equipped with a Raspberry Pi computer, camera and GPS receiver. The camera is attached to the middle of the primary mirror. A gold cable in the picture below connects the camera and Raspberry Pi.
 
 <p align="center">
   <img src="../images/gold-origami-camera.jpg" height="350" />

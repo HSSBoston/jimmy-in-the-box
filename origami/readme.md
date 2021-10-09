@@ -39,10 +39,16 @@ See this video to learn how to fold this tessellation.
 JWST's sunshield has 5 layers of aluminum-coated silicon film.
 
 <p align="center">
-<img src="../images/sunshield.jpg" height="250" />
+<img src="../images/sunshield.jpg" height="300" />
 </p>
 
-We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield. See this video to learn how to fold a long hexagon.
+We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield.
+
+<p align="center">
+<img src="../images/sunshield-long-hex.jpg" height="400" />
+</p>
+
+See this video to learn how to fold a long hexagon.
 
 [<img src="../images/hex-fold.jpg" width="500" />](https://youtu.be/871z3e-o738)
 
