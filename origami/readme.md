@@ -18,7 +18,7 @@ We started with [Eric Gjerde](https://www.ericgjerde.com/)’s [hexagonal tessel
 This is <a href="https://www.youtube.com/watch?v=3BTu2Hih39A">Eric Gjerde's tessellation folded by Jo Nakakima</a>.
 </p>
 <p align="center">
-<img src="../images/eric-hex-tessellation.jpg" width="300" />
+<img src="../images/eric-hex-tessellation.jpg" width="250" />
 <br>
 This is Eric Gjerde's tessellation that we folded.
 </p>
@@ -42,7 +42,7 @@ JWST's sunshield has 5 layers of aluminum-coated silicon film.
 <img src="../images/sunshield.jpg" height="300" />
 </p>
 
-We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield.
+We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield. Five hexagons (in silver) are stacked with two origami springs (in gold).
 
 <p align="center">
 <img src="../images/sunshield-long-hex.jpg" height="400" />
