@@ -26,7 +26,7 @@ JWST's sun shield is modeled with sheet protectors. Five layers of them are conn
 ## Prototype 2
 
 <p align="center">
-
+  <img src="../images/prototype2-2.jpg" height="350" />
 </p>
 
 This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a piece of paper, stacked five of them and placed them under the primary mirror. See [this page]((../origami/)) to learn how to fold them.
@@ -55,7 +55,7 @@ This prototype is equipped with a Raspberry Pi computer, camera, push button and
 
 We wrote a [Python program](gps-loc-addr-elev-pic-kintone.py) for the Raspberry Pi to periodically take a picture with a camera and measure its current position (latitude, longitude and elevation) with a GPS receiver. The program periodically uploads a picture, position information, address and Google Maps link to [Kintone](https://developer.kintone.io/). In Kintone, the unit of elevation is converted from meters to feet with an embedded equation.  
 
-We also wrote [another Python program](../software/code/led-button-loc-addr-elev-pic-kintone.py) for Raspberry Pi to monitor a push button and detect it is pressed. Once it is pressed, the program takes a picture and uploads it (and other data like position information) to Kintone. 
+We also wrote [another Python program](../software/code/led-button-loc-addr-elev-pic-kintone.py) for Raspberry Pi to monitor a push button and detect it is pressed. Once it is pressed, the program takes a picture and uploads it (and other data like position information) to Kintone.
 
 See [this page](../hardware) to learn how to set up hardware, and see [this page](../software) to learn how to set up and run software.
 
