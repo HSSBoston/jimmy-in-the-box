@@ -18,8 +18,8 @@ We worked on [the Webb Origami Design Challenge](https://2021.spaceappschallenge
     - [PDF version](slides/project-presentation.pdf): Demo videos do not work in this PDF version.
 - [Telescope model prototypes](prototypes/): Pictures and videos
 - [Origami stuff](origami/): Instruction videos
-- Hardware stuff: Required hardware, camera setup, GPS receiver setup and circuit diagrams
-- Software stuff: Raspberry Pi OS setup, Kintone setup and [Python code](software/code/)
+- [Hardware stuff](hardware/): Required hardware, camera setup, GPS receiver setup and circuit diagrams
+- [Software stuff](software): Raspberry Pi OS setup, Kintone setup and [Python code](software/code/)
 
 ## Short Project Summary
 

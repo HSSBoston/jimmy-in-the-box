@@ -53,7 +53,9 @@ This prototype models JWST's primary mirror and sunshield with origami crafts as
 
 This prototype is equipped with a Raspberry Pi computer, camera, push button and GPS receiver. It places the camera at the middle of the primary mirror, as our prototype 2 does. It is connected with a Raspberry Pi in a case, which is attached to the vertical tower as JWST's [Integrated Science Instrument Module (ISIM)](https://www.jwst.nasa.gov/content/observatory/instruments/index.html) is attached to the tower. A push button and GPS receiver are also attached to the tower and connected to the Raspberry Pi.
 
-We wrote a [Python program](gps-loc-addr-elev-pic-kintone.py) for the Raspberry Pi to periodically take a picture with a camera and measure its current position (latitude, longitude and elevation) with a GPS receiver. The program periodically uploads a picture, position information, address and Google Maps link to [Kintone](https://developer.kintone.io/). We also wrote [another Python program](../software/code/led-button-loc-addr-elev-pic-kintone.py) to detect a push button is pressed, take a picture and upload it to [Kintone](https://developer.kintone.io/).  
+We wrote a [Python program](gps-loc-addr-elev-pic-kintone.py) for the Raspberry Pi to periodically take a picture with a camera and measure its current position (latitude, longitude and elevation) with a GPS receiver. The program periodically uploads a picture, position information, address and Google Maps link to [Kintone](https://developer.kintone.io/). In Kintone, the unit of elevation is converted from meters to feet with an embedded equation.  
+
+We also wrote [another Python program](../software/code/led-button-loc-addr-elev-pic-kintone.py) for Raspberry Pi to monitor a push button and detect it is pressed. Once it is pressed, the program takes a picture and uploads it (and other data like position information) to Kintone. 
 
 See [this page](../hardware) to learn how to set up hardware, and see [this page](../software) to learn how to set up and run software.
 
