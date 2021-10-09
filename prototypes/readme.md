@@ -7,7 +7,7 @@ We made 3 prototypes in this project.
 [<img src="../images/prototype1-yt.jpg" width="500" />](https://youtu.be/nX_uif16j78)
 
 
-This prototype models JWST's primary mirror with a hexagonal origami tessellation. The tessellation is folded from a piece of paper. See [this page](../origami/) for more details about the tessellation.
+This prototype models JWST's primary mirror with a hexagonal origami tessellation. The tessellation is folded from a sheet of paper. See [this page](../origami/) for more details about the tessellation.
 
 This prototype also models JWST's [Secondary Mirror Support Structure (SMSS)](https://news.northropgrumman.com/news/features/nasas-james-webb-space-telescope-secondary-mirror-deploys-for-the-first-time-using-the-spacecraft-flight-electronics), which uses 3 arms to deploy the secondary mirror. The arms are modeled with bamboo skewers, which are attached to the primary mirror with two hinges made with paper tape and plastic straws. Just like JWST's arms, our arms fold toward the primary mirror (so that they can reduce their volume and can be placed in a rocket) and unfold to form a tripod (so that the secondary mirror can stay at a distance from the primary mirror).
 
@@ -30,7 +30,7 @@ JWST's sun shield is modeled with sheet protectors. Five layers of them are conn
   <img src="../images/prototype2-2.jpg" height="350" />
 </p>
 
-This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a piece of paper, stacked five of them and placed them under the primary mirror. See [this page]((../origami/)) to learn how to fold them.
+This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a sheet of paper, stacked five of them and placed them under the primary mirror. See [this page]((../origami/)) to learn how to fold them.
 
 This prototype is equipped with a Raspberry Pi computer, camera and GPS receiver. The camera is attached to the middle of the primary mirror. A gold cable in the picture below connects the camera and Raspberry Pi.
 
