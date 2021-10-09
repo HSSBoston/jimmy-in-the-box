@@ -23,13 +23,13 @@ This is <a href="https://www.youtube.com/watch?v=3BTu2Hih39A">Eric Gjerde's tess
 This is Eric Gjerde's tessellation that we folded.
 </p>
 
-So, we customized the folding strategy to better model the primary mirror. In our tesselation, hexagons fit together without overlaps nor gaps as JWST's hexagonal segments do. Our tessellation tiles 19 hexagons: 5 in the middle column, 4 in its left and right neighboring columns and 3 in each outer-most column.
+So, we customized the folding strategy to better model the primary mirror. In our tesselation, hexagons fit together without overlaps nor gaps as JWST's hexagonal segments do. Our tessellation tiles 19 hexagons: 5 in the middle column, 4 in the left and right neighboring columns and 3 in each outer-most column.
 
 <p align="center">
 <img src="../images/hex-tessellation.jpg" height="400" />
 </p>
 
-See this video to see how to fold this tessellation.
+See this video to learn how to fold this tessellation.
 
 [<img src="../images/tessellation.jpg" width="500" />](https://youtu.be/rcuQiwpuUoE)
 
@@ -42,7 +42,7 @@ JWST's sunshield has 5 layers of aluminum-coated silicon film.
 <img src="../images/sunshield.jpg" height="250" />
 </p>
 
-We folded a long hexagon from a single piece of paper and stacked five of them to model the sunshield. See this video to see how to fold a long hexagon.
+We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield. See this video to learn how to fold a long hexagon.
 
 [<img src="../images/hex-fold.jpg" width="500" />](https://youtu.be/871z3e-o738)
 
