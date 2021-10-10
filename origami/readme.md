@@ -42,7 +42,7 @@ JWST's sunshield has 5 layers of aluminum-coated silicon film.
 <img src="../images/sunshield.jpg" height="300" />
 </p>
 
-We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield. Five hexagons (in silver) are stacked with two origami springs (in gold).
+We folded a long hexagon from a single sheet of paper and stacked five of them to model the sunshield. The five hexagons (in silver) are stacked with two origami springs (in gold).
 
 <p align="center">
 <img src="../images/sunshield-long-hex.jpg" height="400" />
@@ -51,6 +51,10 @@ We folded a long hexagon from a single sheet of paper and stacked five of them t
 See this video to learn how to fold a long hexagon.
 
 [<img src="../images/hex-fold.jpg" width="500" />](https://youtu.be/871z3e-o738)
+
+Here is a video to see how to fold a square spring.
+
+[<img src="../images/square-spring.jpg" width="500" />](https://youtu.be/67gjAQxheeQ)
 
 ## References
 

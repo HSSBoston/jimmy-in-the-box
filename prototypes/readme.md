@@ -16,6 +16,11 @@ This prototype also models JWST's [Secondary Mirror Support Structure (SMSS)](ht
 JWST's sun shield is modeled with sheet protectors. Five layers of them are connected with foundation bars with strings. They can fold and unfold horizontally.
 
 <p align="center">
+  <img src="../images/sunshield-string.jpg" height="500" />
+</p>
+
+
+<p align="center">
   <img src="../images/prototype1-1.jpg" height="360" />
   <img src="../images/prototype1-2.jpg" width="300" />
 </p>
