@@ -14,7 +14,8 @@ We worked on [the Webb Origami Design Challenge](https://2021.spaceappschallenge
 - [Official team web page](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/teams/jimmy-in-the-box/project)
 - [7-page project summary](https://docs.google.com/presentation/d/1nmX0FUnBBMxpRaWH_cBceoy4Npa-MedKLuksTUixOqo/)
     - [PDF version](slides/project-summary-7pages.pdf): Demo videos do not work in this PDF version.
-- [Presentation slides](https://docs.google.com/presentation/d/12ucfhzGjBptPKP8IB2f-UOlHxiC5JVm7EAoEAlMQs-8/) for the Boston local judging
+- [Oral presentation video](https://youtu.be/Yye_V41qpfM) for Boston local judging
+- [Presentation slides](https://docs.google.com/presentation/d/12ucfhzGjBptPKP8IB2f-UOlHxiC5JVm7EAoEAlMQs-8/) for Boston local judging
     - [PDF version](slides/project-presentation.pdf): Demo videos do not work in this PDF version.
 - [Telescope model prototypes](prototypes/): Pictures and videos
 - [Origami stuff](origami/): Instruction videos
