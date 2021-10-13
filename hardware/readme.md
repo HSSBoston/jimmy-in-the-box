@@ -11,12 +11,53 @@
   - Used to connect a camera and Raspi Zero. This has to be compatible with Raspi Zero. The default Raspi camera cable does not fit with Zero. (It is for other Raspi models than Zero.)
 - GPS receiver
   - You can use any GPS receivers that can do TTL serial communication.
-  We have used [this](https://smile.amazon.com/gp/product/B07PRDY6DS/) and [this](https://smile.amazon.com/gp/product/B01D1D0F5M/) receivers. The former requires soldering to connect a receiver board and pins. The latter does not. You can choose [this one](https://smile.amazon.com/gp/product/B078Y6323W/) too. It integrates a magnetometer (compass) with a GPS receiver.
+  We have used [this](https://smile.amazon.com/gp/product/B07PRDY6DS/) and [this](https://smile.amazon.com/gp/product/B01D1D0F5M/) receivers. The latter requires soldering to connect a receiver board and pins. It also requires female-to-female jumper wires ([Adafruit](https://www.adafruit.com/product/1950), [Amazon](https://smile.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/)). The former does not require soldering nor jumper wires.
+  - You can choose [this receiver](https://smile.amazon.com/gp/product/B078Y6323W/) too. It integrates a magnetometer (compass) in it.
 - Push button
   - We used [this one](https://www.adafruit.com/product/1333). Anything similar should work, but we have not used any others.
 
+
 ## Hardware setup
+
+Connect a GPS receiver, a camera and a push button with Raspi this way:
 
 <p align="center">
   <img src="../images/circuits.jpg" width="400" />
 </p>
+
+A GPS receiver often has a plastic wire connector or metal pins. If your receiver has a plastic wire connector, connect 4 wires to the connector. If it has metal pins, connect 3 wires to the Gnd (ground), Tx and Vcc pins. We don't use the Rx wire/pin.
+
+<p align="center">
+  <img src="../images/gps1.jpg" width="250" />
+  <img src="../images/gps2.jpg" height="350" />
+</p>
+
+Now, connect the Gnd, Tx and Vcc wires to Raspi's GPIO pins:
+
+| GPS Receiver| Raspi   |
+| ---         | ---     |
+| Gnd         | Gnd     |
+| Tx          | GPIO 15 |
+| Vcc         | 3.3V    |
+
+
+Here is the back side of [a push button we use](https://www.adafruit.com/product/1333):
+
+<p align="center">
+  <img src="../images/button.jpg" height="300" />
+</p>
+
+- The right wire: Vcc (power supply).
+- The middle wire: Out
+- The left wire: Gnd (ground)
+
+When a button is not pressed, electricity flows in from Vcc (right wire) and flows out to
+Out (middle wire). When the button is pressed, flows electricity to Gnd. Electricity does not flow out to the middle wire while pressing the button. The Vcc-to-Gnd circuit lights an LED on the front side. So, you can tell if the button is pressed by checking if electricity flows through the middle wire.  
+
+Now, connect the Vcc, Out and Gnd wires to Raspi's GPIO pins:
+
+| Push Button | Raspi   |
+| ---         | ---     |
+| Vcc         | GPIO 19 |
+| Out         | GPIO 26 |
+| Gnd         | Gnd     |
