@@ -79,8 +79,8 @@ There are 3 programs to run:
 
 You don't run kintone.py and gpsserial.py yourself, but the above 3 programs use them. Place all the 5 files (the above 3 programs, kintone.py and gpsserial.py) in the same filder.
 
-We run programs with [Thonny](https://thonny.org/), which is included in Raspi OS by default. You can run them in Terminal too. For example: 
+We run programs with [Thonny](https://thonny.org/), which is included in Raspi OS by default. You can run them in Terminal too. For example:
 
 ```
-raspistill -o test.jpg
+python3 gps-loc-addr-pic-kintone.py
 ```
