@@ -51,8 +51,7 @@ Here is the back side of [a push button we use](https://www.adafruit.com/product
 - The middle wire: Out
 - The left wire: Gnd (ground)
 
-When a button is not pressed, electricity flows in from Vcc (right wire) and flows out to
-Out (middle wire). When the button is pressed, flows electricity to Gnd. Electricity does not flow out to the middle wire while pressing the button. The Vcc-to-Gnd circuit lights an LED on the front side. So, you can tell if the button is pressed by checking if electricity flows through the middle wire.  
+When a button is not pressed, electricity flows in from Vcc (right wire) and flows out to Out (middle wire). When the button is pressed, it flows electricity to Gnd. Electricity does not flow out to the middle wire while pressing the button. The Vcc-to-Gnd circuit lights an LED on the front side. So, you can tell if the button is pressed by checking if electricity flows through the middle wire.  
 
 Now, connect the Vcc, Out and Gnd wires to Raspi's GPIO pins:
 

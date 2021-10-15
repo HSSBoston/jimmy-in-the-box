@@ -34,7 +34,7 @@ raspistill -o ~/Pictures/test.jpg
 To check if your GPS receiver works properly, run the following command in Terminal:
 
 ```
-sudo stty -F /dev/serial0 9600 raw
+sudo stty -f /dev/serial0 9600 raw
 
 ```
 
@@ -68,3 +68,19 @@ Look at a line starting with $GPRMC or $GNRMC.
 ## Making a Kintone App
 
 ## Making and Running Python Apps
+
+There are 3 programs to run:
+
+| Program name                            |   |
+| ---                                     | ---     |
+| gps-loc-addr-pic-kintone.py             | This program periodically gets the current latitude and longitude with a GPS receiver, reverse-geocodes them to an address (city/town name and state name), creates a Google Maps link to the current location, takes a picture with a camera, and uploads the location info, address, Google Maps link and picture to Kintone. |
+| gps-loc-addr-elev-pic-kintone.py        | This program does what the previous program (gps-loc-addr-pic-kintone.py) does. Plus, it measures the current elevation with a GPS receiver and uploads it to Kintone.  |
+| led-button-loc-addr-elev-pic-kintone.py | This program does what the previous program (gps-loc-addr-elev-pic-kintone.py) does, but it does that only when a push button is pressed while the previous program does that periodically (every 30 seconds, for example). |
+
+You don't run kintone.py and gpsserial.py yourself, but the above 3 programs use them. Place all the 5 files (the above 3 programs, kintone.py and gpsserial.py) in the same filder.
+
+We run programs with [Thonny](https://thonny.org/), which is included in Raspi OS by default. You can run them in Terminal too. For example: 
+
+```
+raspistill -o test.jpg
+```
