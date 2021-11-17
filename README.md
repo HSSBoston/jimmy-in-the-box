@@ -9,11 +9,9 @@ We are a team of high schoolers and middle schoolers who participated in [2021 N
 - Yuto
 - Misaki
 
-We worked on [the Webb Origami Design Challenge](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/) at the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA SpaceApps and won the **1st place** there! The challenge was to "create origami artwork that looks like the [James Webb Space Telescope](https://www.jwst.nasa.gov/) and showcase Webb as a technological and design marvel using an “arts-meets-science” approach." Our project was then nominated to global judging and selected as a [global finalist](https://2021.spaceappschallenge.org/awards/global-finalists).
+We worked on [the Webb Origami Design Challenge](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/) at the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA SpaceApps and won the **1st place** there! The challenge was to "create origami artwork that looks like the [James Webb Space Telescope](https://www.jwst.nasa.gov/) and showcase Webb as a technological and design marvel using an “arts-meets-science” approach." Our project was then nominated to global judging and selected as a [***global finalist***](https://2021.spaceappschallenge.org/awards/global-finalists)!
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
-
-
 
 - [Official team web page](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/teams/jimmy-in-the-box/project)
 - [7-page project summary](https://docs.google.com/presentation/d/1nmX0FUnBBMxpRaWH_cBceoy4Npa-MedKLuksTUixOqo/)
