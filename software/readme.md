@@ -73,9 +73,16 @@ There are 3 programs to run:
 
 | Program name                            |   |
 | ---                                     | ---     |
-| gps-loc-addr-pic-kintone.py             | This program periodically gets the current latitude and longitude with a GPS receiver, reverse-geocodes them to an address (city/town name and state name), creates a Google Maps link to the current location, takes a picture with a camera, and uploads the location info, address, Google Maps link and picture to Kintone. |
-| gps-loc-addr-elev-pic-kintone.py        | This program does what the previous program (gps-loc-addr-pic-kintone.py) does. Plus, it measures the current elevation with a GPS receiver and uploads it to Kintone.  |
-| led-button-loc-addr-elev-pic-kintone.py | This program does what the previous program (gps-loc-addr-elev-pic-kintone.py) does, but it does that only when a push button is pressed while the previous program does that periodically (every 30 seconds, for example). |
+| [gps-loc-addr-pic-kintone.py](code/gps-loc-addr-pic-kintone.py)             | This program periodically gets the current latitude and longitude with a GPS receiver, reverse-geocodes them to an address (city/town name and state name), creates a Google Maps link to the current location, takes a picture with a camera, and uploads the location info, address, Google Maps link and picture to Kintone. |
+| [gps-loc-addr-elev-pic-kintone.py](code/gps-loc-addr-elev-pic-kintone.py)        | This program does what the previous program (gps-loc-addr-pic-kintone.py) does. Plus, it measures the current elevation with a GPS receiver and uploads it to Kintone.  |
+| [led-button-loc-addr-elev-pic-kintone.py](led-button-loc-addr-elev-pic-kintone.py) | This program does what the previous program (gps-loc-addr-elev-pic-kintone.py) does, but it does that only when a push button is pressed while the previous program does that periodically (every 30 seconds, for example). |
+
+These programs use a Python module called [GeoPy](https://geopy.readthedocs.io/) to do reverse-geocoding with [Nominatim](https://nominatim.org/). Install GeoPy by running the following command in Terminal:
+```
+sudo pip3 install geopy
+
+```
+Reverse-geocoding means mapping a pair of latitude and longitude to a postal address such as a pair of city/town name and state name.
 
 You don't run kintone.py and gpsserial.py yourself, but the above 3 programs use them. Place all the 5 files (the above 3 programs, kintone.py and gpsserial.py) in the same folder.
 
