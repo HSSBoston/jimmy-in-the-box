@@ -91,7 +91,7 @@ sdomain = "SUB-DOMAIN-NAME"
 appId = "APP-ID-NUMBER"
 token = "APP-TOKEN"
 ```
-For example, a revised version can look like this:
+For example, a revised version looks like this:
 ```Python
 sdomain = "hssboston"
 appId = "1"
