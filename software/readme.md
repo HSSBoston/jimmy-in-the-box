@@ -80,14 +80,32 @@ There are 3 programs to run:
 These programs use a Python module called [GeoPy](https://geopy.readthedocs.io/) to do reverse-geocoding with [Nominatim](https://nominatim.org/). Install GeoPy by running the following command in Terminal:
 ```
 sudo pip3 install geopy
-
 ```
 Reverse-geocoding means mapping a pair of latitude and longitude to a postal address such as a pair of city/town name and state name.
 
 You don't run kintone.py and gpsserial.py yourself, but the above 3 programs use them. Place all the 5 files (the above 3 programs, kintone.py and gpsserial.py) in the same folder.
+
+You need to revise each of the above 3 programs so that it can upload data to your Kintone app. Find the following 3 lines in it, and replace SUB-DOMAIN-NAME, APP-ID-NUMBER and APP-TOKEN with your Kintone subdomain, app ID and app token.
+```Python
+sdomain = "SUB-DOMAIN-NAME"
+appId = "APP-ID-NUMBER"
+token = "APP-TOKEN"
+```
+For example, a revised version can look like this:
+```Python
+sdomain = "hssboston"
+appId = "1"
+token = "abcxyz"
+```
+Make sure to keep double quotations in each line.
 
 We run programs with [Thonny](https://thonny.org/), which is included in Raspi OS by default. You can run them in Terminal too. For example:
 
 ```
 python3 gps-loc-addr-pic-kintone.py
 ```
+As a program runs and uploads data to Kintone, you can browse them with a web browser or a Kintone mobile app (on iOS or Android):
+
+<p align="center">
+  <img src="../images/kintone.jpg" width="500" />
+</p>
