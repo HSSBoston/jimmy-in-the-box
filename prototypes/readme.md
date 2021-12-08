@@ -35,7 +35,7 @@ JWST's sun shield is modeled with sheet protectors. Five layers of them are conn
   <img src="../images/prototype2-2.jpg" height="350" />
 </p>
 
-This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a sheet of paper, stacked five of them and placed them under the primary mirror. See [this page]((../origami/)) to learn how to fold them.
+This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a sheet of paper, stacked five of them and placed them under the primary mirror. See [this page](../origami) to learn how to fold them.
 
 This prototype is equipped with a Raspberry Pi computer, camera and GPS receiver. The camera is attached to the middle of the primary mirror. A gold cable in the picture below connects the camera and Raspberry Pi.
 
