@@ -18,7 +18,7 @@ We are excited and honored to be one of 10 Global Winners, which were selected f
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
 
-**We are invited to Winners' Trip**, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the cost of our trip to NASA. **<ins>Please help us fly to NASA!</ins>**
+**We are invited to Winners' Trip**, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the cost of our trip to NASA. **<ins>Help us fly to NASA!</ins>**
 
 <p align="center">
   <a href="https://www.gofundme.com/f/jimmy-in-the-box"><img src="images/support.jpg" /></a>
@@ -38,6 +38,7 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - [Origami stuff](origami/): Instruction videos
 - [Hardware stuff](hardware/): Required hardware, camera setup, GPS receiver setup and circuit diagrams
 - [Software stuff](software): Raspberry Pi OS setup, Kintone setup and [Python code](software/code/)
+- [Press coverage](press/)
 
 ## Short Project Summary
 
