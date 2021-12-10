@@ -2,7 +2,7 @@
   <img src="images/project-logo.png" width="750" />
 </p>
 
-We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship]()*** at [2021 NASA SpaceApps Challenge](https://2021.spaceappschallenge.org):
+We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://2021.spaceappschallenge.org/awards/)*** at [2021 NASA SpaceApps Challenge](https://2021.spaceappschallenge.org):
 
 - Takeshi
 - Hanna
@@ -18,10 +18,10 @@ We are excited and honored to be one of 10 Global Winners, which were selected f
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
 
-We are invited to Winners' Trip, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the costs of our trip to NASA. **<ins>Please help us fly to NASA!</ins>**
+**We are invited to Winners' Trip**, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the cost of our trip to NASA. **<ins>Please help us fly to NASA!</ins>**
 
 <p align="center">
-  <a href="https://gofund.me/e52207d9"><img src="images/support.jpg" /></a>
+  <a href="https://www.gofundme.com/f/jimmy-in-the-box"><img src="images/support.jpg" /></a>
 </p>
 
 Our team worked on [the Webb Origami Design Challenge](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/) to "create origami artwork that looks like the [James Webb Space Telescope (JWST)](https://webbtelescope.org/) and showcase Webb as a technological and design marvel using an “arts-meets-science” approach." We built *computerized* origami models for JWST, which use hexagonal tessellation and other folding techniques to model JWST's mirrors and sunshield. Our models are equipped with Raspberry Pi computers, cameras, sensors and Kintone cloud database, so they work as Internet-of-Things (IoT) devices. Our goal is to have our models do what the real telescope does.
