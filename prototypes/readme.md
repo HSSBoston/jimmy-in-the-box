@@ -37,7 +37,7 @@ JWST's sun shield is modeled with sheet protectors. Five layers of them are conn
 ## Prototype 2
 
 <p align="center">
-  <img src="../images/prototype2-2.jpg" height="350" />
+  <img src="../images/prototype2-2.jpg" width="500" />
 </p>
 
 This prototype models JWST's primary mirror and sunshield. The primary mirror is modeled with a hexagonal origami tessellation, just like in our prototype 1. The sunshield is also modeled with origami crafts. We folded a long (silver) hexagon from a sheet of paper, stacked five of them and placed them under the primary mirror. See [this page](../origami) to learn how to fold them.
@@ -57,7 +57,7 @@ See [this page](../hardware) to learn how to set up hardware, and see [this page
 ## Prototype 3
 
 <p align="center">
-  <img src="../images/prototype3-4.jpg" height="350" />
+  <img src="../images/prototype3-4.jpg" height="400" />
 </p>
 
 This prototype models JWST's primary mirror and sunshield with origami crafts as our prototypes 1 and 2 do. They are attached to two snake cubes, which model JWST's vertical tower and bottom foundation bars. Bottom foundation bars fold and unfold just like in JWST.
