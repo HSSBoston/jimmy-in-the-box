@@ -6,15 +6,9 @@ We made 3 prototypes in this project.
 
 <p align="center">
   <img src="../images/prototype1.jpg" width="350" />
+  <br>
   <a href="https://youtu.be/nX_uif16j78"><img src="../images/prototype1-yt.jpg" width="500" /></a>
 </p>
-
-<p align="center">
-  <img src="../images/prototype1.jpg" height="350" />
-</p>
-
-[<img src="../images/prototype1-yt.jpg" width="500" />]()
-
 
 This prototype models JWST's primary mirror with a hexagonal origami tessellation. The tessellation is folded from a sheet of paper. See [this page](../origami/) for more details about the tessellation.
 
