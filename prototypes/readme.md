@@ -4,6 +4,10 @@ We made 3 prototypes in this project.
 
 ## Prototype 1
 
+<p align="center">
+  <img src="../images/prototype1.jpg" height="350" />
+</p>
+
 [<img src="../images/prototype1-yt.jpg" width="500" />](https://youtu.be/nX_uif16j78)
 
 
