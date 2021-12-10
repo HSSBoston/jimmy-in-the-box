@@ -18,7 +18,7 @@ We are excited and honored to be one of 10 Global Winners, which were selected f
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
 
-We are invited to Winners' Trip, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://gofund.me/e52207d9) to cover the costs of our trip to NASA. **<ins>Please help us fly to NASA!</ins>**
+We are invited to Winners' Trip, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the costs of our trip to NASA. **<ins>Please help us fly to NASA!</ins>**
 
 <p align="center">
   <a href="https://gofund.me/e52207d9"><img src="images/support.jpg" /></a>
