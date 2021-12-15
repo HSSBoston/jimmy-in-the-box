@@ -2,18 +2,18 @@
   <img src="images/project-logo.png" width="750" />
 </p>
 
-We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://2021.spaceappschallenge.org/awards/)*** at [2021 NASA SpaceApps Challenge](https://2021.spaceappschallenge.org):
+We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://2021.spaceappschallenge.org/awards/)*** at [2021 NASA Space Apps Challenge](https://2021.spaceappschallenge.org):
 
 - Takeshi
 - Hanna
 - Yuto
 - Misaki
 
-NASA SpaceApps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
+NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
 We are excited and honored to be one of 10 Global Winners, which were selected from 4,534 teams worldwide (28,286 participants from 162 countries) by NASA and 9 other space agencies!
 
-<!-- at the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA SpaceApps and won the **1st place** there! The challenge was -->
+<!-- at the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA Space Apps and won the **1st place** there! The challenge was -->
 <!-- Our project was nominated to global judging and selected as a [***global finalist***](https://2021.spaceappschallenge.org/awards/global-finalists)! -->
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
@@ -26,7 +26,7 @@ We are excited and honored to be one of 10 Global Winners, which were selected f
 
 Our team worked on [the Webb Origami Design Challenge](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/) to "create origami artwork that looks like the [James Webb Space Telescope (JWST)](https://webbtelescope.org/) and showcase Webb as a technological and design marvel using an “arts-meets-science” approach." We built *computerized* origami models for JWST, which use hexagonal tessellation and other folding techniques to model JWST's mirrors and sunshield. Our models are equipped with Raspberry Pi computers, cameras, sensors and Kintone cloud database, so they work as Internet-of-Things (IoT) devices. Our goal is to have our models do what the real telescope does.
 
-This web site provides instruction videos, circuit diagrams, software setup guide and ready-to-run programs. You can immediately learn how to reproduce our origami crafts and IoT telescope models. We hope you find this project interesting and useful and then learn something about JWST. JWST has not been launched yet. Let's get to know about it and watch its launch and deployment at [December 22](https://jwst.nasa.gov/content/about/launch.html)!
+This web site provides instruction videos, circuit diagrams, software setup guide and ready-to-run programs. You can immediately learn how to reproduce our origami crafts and IoT telescope models. We hope you find this project interesting and useful and then learn something about JWST. JWST has not been launched yet. Let's get to know about it and watch its launch and deployment at [December 24](https://jwst.nasa.gov/content/about/launch.html)!
 
 - [Official team web page](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/teams/jimmy-in-the-box/project) at SpaceAppsChallenge.org
 - [7-page project summary](https://docs.google.com/presentation/d/1nmX0FUnBBMxpRaWH_cBceoy4Npa-MedKLuksTUixOqo/)
