@@ -1,8 +1,7 @@
-<!--
 <p align="center">
   <img src="images/project-logo.png" width="750" />
 </p>
--->
+
 We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://2021.spaceappschallenge.org/awards/)*** at [2021 NASA Space Apps Challenge](https://2021.spaceappschallenge.org):
 
 - Takeshi
