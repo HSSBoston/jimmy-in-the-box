@@ -40,6 +40,8 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - [Software stuff](software): Raspberry Pi OS setup, Kintone setup and [Python code](software/code/)
 
 
+
+
 - [Our Twitter page](https://twitter.com/Jimmy_intheBox)
 - [Press coverage](press/)
 
