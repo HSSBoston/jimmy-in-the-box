@@ -1,5 +1,7 @@
 # Press Coverage
 
+[Belmont students win 2021 NASA Space Apps Challenge award](https://www.wickedlocal.com/story/belmont-citizen-herald/2021/12/23/belmont-students-win-national-2021-nasa-hackathon-award/9000490002/), Belmont Citizen-Herald. 
+
 [Boston Students Bring Home a Win for America at the NASA International Space Apps Challenge 2021](http://www.binnovative.org/2021/12/10/2021-isac-globalwinner/), Press release by Binnovative, which organizes the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA SpaceApps Challenge.
 
 [Boston Students Bring Home a Win for America at the NASA International Space Apps Challenge 2021](https://www.pr.com/press-release/851037), PR.com.
