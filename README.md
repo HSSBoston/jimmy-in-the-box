@@ -38,10 +38,6 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - [Origami stuff](origami/): Instruction videos
 - [Hardware stuff](hardware/): Required hardware, camera setup, GPS receiver setup and circuit diagrams
 - [Software stuff](software): Raspberry Pi OS setup, Kintone setup and [Python code](software/code/)
-
-
-
-
 - [Our Twitter page](https://twitter.com/Jimmy_intheBox)
 - [Press coverage](press/)
 
