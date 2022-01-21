@@ -2,12 +2,14 @@
   <img src="images/project-logo.png" width="750" />
 </p>
 
-We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://2021.spaceappschallenge.org/awards/)*** at [2021 NASA Space Apps Challenge](https://2021.spaceappschallenge.org):
+We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://www.spaceappschallenge.org/blog/meet-the-2021-global-winners/)*** at [2021 NASA Space Apps Challenge](https://2021.spaceappschallenge.org):
 
-- Takeshi
-- Hanna
-- Yuto
-- Misaki
+<!-- https://2021.spaceappschallenge.org/awards/ -->
+
+- Takeshi Tatsumi
+- Hanna Suzuki
+- Yuto Yashiro
+- Misaki Tatsumi
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
