@@ -1,5 +1,7 @@
 # Press Coverage
 
+[The Power of Ten: Meet the 10 Winners of NASA’s 10th Annual Space Apps Challenge](https://www.nasa.gov/feature/goddard/2022/the-power-of-ten-meet-the-10-winners-of-nasa-s-10th-annual-space-apps-challenge)
+
 [Boston Students Bring Home a Win for America at the NASA International Space Apps Challenge 2021](http://www.binnovative.org/2021/12/10/2021-isac-globalwinner/), Press release by Binnovative, which organizes the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA SpaceApps Challenge.
 
 [JGMS Sixth Grader and her Belmont Teammates Win Global Award in NASA Space Apps Challenge](https://www.thebedfordcitizen.org/2022/01/jgms-sixth-grader-and-her-belmont-teammates-win-global-award-in-nasa-space-apps-challenge/), Bedford Citizen.
