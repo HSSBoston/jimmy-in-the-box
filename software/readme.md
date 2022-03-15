@@ -52,18 +52,7 @@ Most likely, you will get something like this.
 
 All the commas and 99.99 mean that your GPS receiver has not yet calculated its position. Keep running the “cat” command. If in 10 minutes it still looks like this, you need to move the antenna closer to a window.
 
-When the calculation is successful, the text will change like this.
-
-<p align="center">
-  <img src="../images/terminal-serial2.jpg" width="500" />
-</p>
-
-Look at a line starting with $GPRMC or $GNRMC.
-
-- 4219.82563 is latitude.
-- N means North.
-- 07106.86235 is longitude.
-- W means West.
+When the calculation is successful, the text will show North/South, latitude, West/East, longitude, etc.
 
 ## Making a Kintone App
 
