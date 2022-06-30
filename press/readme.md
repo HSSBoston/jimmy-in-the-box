@@ -4,10 +4,11 @@
 
 [The Power of Ten: Meet the 10 Winners of NASA’s 10th Annual Space Apps Challenge](https://www.nasa.gov/feature/goddard/2022/the-power-of-ten-meet-the-10-winners-of-nasa-s-10th-annual-space-apps-challenge)
 
-
 [JGMS Sixth Grader and her Belmont Teammates Win Global Award in NASA Space Apps Challenge](https://www.thebedfordcitizen.org/2022/01/jgms-sixth-grader-and-her-belmont-teammates-win-global-award-in-nasa-space-apps-challenge/), Bedford Citizen.
 
 [Belmont students win 2021 NASA Space Apps Challenge award](https://www.wickedlocal.com/story/belmont-citizen-herald/2021/12/23/belmont-students-win-national-2021-nasa-hackathon-award/9000490002/), Belmont Citizen-Herald.
+
+[Hackathon team uses origami in James Webb Space Telescope Pi project](https://www.computerweekly.com/news/252515553/Hackathon-team-uses-origami-in-James-Webb-Space-Telescope-Pi-project), Computer Weekly, April 2022.
 
 [Boston Students Bring Home a Win for America at the NASA International Space Apps Challenge 2021](http://www.binnovative.org/2021/12/10/2021-isac-globalwinner/), Press release by Binnovative, which organizes the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA Space Apps Challenge.
 
