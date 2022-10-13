@@ -2,7 +2,7 @@
   <img src="images/project-logo.png" width="750" />
 </p>
 
-We are a team of high schoolers and middle schoolers (5 to 11 graders) who won a ***[Global Championship](https://www.spaceappschallenge.org/blog/meet-the-2021-global-winners/)*** at [2021 NASA Space Apps Challenge](https://2021.spaceappschallenge.org):
+We are a team of high school and middle school students (5 to 11 graders) who won a <ins>***[Global Championship](https://www.spaceappschallenge.org/blog/meet-the-2021-global-winners/)***</ins> at [2021 NASA Space Apps Challenge](https://2021.spaceappschallenge.org):
 
 <!-- https://2021.spaceappschallenge.org/awards/ -->
 
@@ -20,7 +20,11 @@ We are excited and honored to be one of 10 Global Winners, which were selected f
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
 
-**We are invited to Winners' Trip**, although it has not been scheduled yet due to the Covid-19 pandemic. We will tour NASA facilities in Florida and view a spacecraft launch!!! We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the cost of our trip to NASA. **<ins>Help us fly to NASA!</ins>**
+**We are invited to Winners' Trip**, which NASA will organize in February 2023. We will visit NASA Headquarters in Washington DC, tour the Wallops Flight Facility and view the launch of a spacecraft to International Space Station. We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the cost of our trip to NASA. **<ins>Help us fly to NASA!</ins>**
+
+<!--although it has not been scheduled yet due to the Covid-19 pandemic.
+We will tour NASA facilities in Florida and view a spacecraft launch!!!
+-->
 
 <p align="center">
   <a href="https://www.gofundme.com/f/jimmy-in-the-box"><img src="images/support.jpg" /></a>
