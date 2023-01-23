@@ -15,20 +15,14 @@ NASA Space Apps Challenge is an annual hackathon event (or an innovation incubat
 
 We are excited and honored to be one of 10 Global Winners, which were selected from 4,534 teams worldwide (28,286 participants from 162 countries) by NASA and 9 other space agencies!
 
+<p align="center">
+<img src="images/global-winner-annoucement.jpg" width="500">
+</p>
+
 <!-- at the [Boston division](http://www.binnovative.org/2021/09/27/isac2021_open/) of NASA Space Apps and won the **1st place** there! The challenge was -->
 <!-- Our project was nominated to global judging and selected as a [***global finalist***](https://2021.spaceappschallenge.org/awards/global-finalists)! -->
 
 <!--- out of 365 global nominees, which were chosen from 4,534 teams worldwide (28,286 participants from 162 countries in total--->
-
-**We are invited to Winners' Trip**, which NASA will organize in February 2023. We will visit NASA Headquarters in Washington DC, tour the Wallops Flight Facility and view the launch of a spacecraft to International Space Station. We are currently [fundraising](https://www.gofundme.com/f/jimmy-in-the-box) to cover the cost of our trip to NASA. **<ins>Help us fly to NASA!</ins>**
-
-<!--although it has not been scheduled yet due to the Covid-19 pandemic.
-We will tour NASA facilities in Florida and view a spacecraft launch!!!
--->
-
-<p align="center">
-  <a href="https://www.gofundme.com/f/jimmy-in-the-box"><img src="images/support.jpg" /></a>
-</p>
 
 Our team worked on the [Webb Origami Design Challenge](https://2021.spaceappschallenge.org/challenges/statements/webb-origami-design-challenge/) to "create origami artwork that looks like the [James Webb Space Telescope (JWST)](https://webbtelescope.org/) and showcase Webb as a technological and design marvel using an “arts-meet-science” approach." We built *computerized* origami models for JWST, which use hexagonal tessellation and other folding techniques to model JWST's mirrors and sunshield. Our models are equipped with Raspberry Pi computers, cameras, sensors and Kintone cloud database, so they work as Internet-of-Things (IoT) devices. Our goal is to have our models do what the real telescope does (such as taking pictures, tracking the current position, measuring sunlight intensity and temperature) .
 
@@ -48,6 +42,7 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - [Press coverage](press/)
 - Post-event publications
   - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
+- [Winners' Trip to NASA](trip/)
 
 ## Short Project Summary
 
