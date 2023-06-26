@@ -44,7 +44,7 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - Post-event outcomes
   - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
   - [Reports of Winners' Trip](trip/)
-  - Lego modeling
+  - [Lego modeling](images/lego.jpg)
 
 ## Short Project Summary
 
