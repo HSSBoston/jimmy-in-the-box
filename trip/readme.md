@@ -2,7 +2,9 @@
 
 We were invited to the Winners' Trip, which NASA organized in March 2023. It was to visit NASA Headquarters in Washington DC, tour the Wallops Flight Facility and view the launch of a spacecraft to International Space Station.
 
-We run a [fundraiser](https://www.gofundme.com/f/jimmy-in-the-box) from December 2021 to September 2022 to cover the cost of our trip to NASA. Thank you, donors, for your generous support! Here are the reports of our trips! 
+We run a [fundraiser](https://www.gofundme.com/f/jimmy-in-the-box) from December 2021 to September 2022 to cover the cost of our trip to NASA. Thank you, donors, for your generous support!!! 
+
+Here are the reports of our trips: 
 
 - Hanna Suzuki, <a href="https://docs.google.com/document/d/1wn2O2DrtAXc7Al1CGRLNk6dRvVygrkynmvwsBWxOSrg/edit?usp=sharing">"Report of a Field Trip to National Air and Space Museum and
 NASA Wallops Flight Facility"</a>, April 2023.
@@ -10,7 +12,6 @@ NASA Wallops Flight Facility"</a>, April 2023.
 
 
 
-We will report you our trip!!!
 
 <!--
 <p align="center">

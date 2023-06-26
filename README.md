@@ -40,9 +40,11 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - [Software stuff](software): Raspberry Pi OS setup, Kintone setup and [Python code](software/code/)
 - [Our Twitter page](https://twitter.com/Jimmy_intheBox)
 - [Press coverage](press/)
-- Post-event publications
-  - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
 - [Winners' Trip to NASA](trip/)
+- Post-event outcomes
+  - T. Tatsumi, H. Suzuki, Y. Yashiro and M. Tatsumi, "[Boston Students Win With Origami at NASA Space Apps Challenge](https://origamiusa.org/thefold/article/boston-students-win-origami-nasa-space-apps-challenge)," The Fold Magazine, No. 70, OrigamiUSA, May-June 2022.
+  - [Reports of Winners' Trip](trip/)
+  - Lego modeling
 
 ## Short Project Summary
 
